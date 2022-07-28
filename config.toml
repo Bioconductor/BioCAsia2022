@@ -1,4 +1,5 @@
-baseurl = "/"
+#baseurl = "/"
+baseurl = "https://bioconductor.github.io/BioCAsia2022/"
 title = "Bioconductor"
 theme = "hugo-universal-theme"
 # themesDir = "../.."
