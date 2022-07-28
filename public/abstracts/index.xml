@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>abstracts on Bioconductor</title>
+    <link>/abstracts/</link>
+    <description>Recent content in abstracts on Bioconductor</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/abstracts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction to Bioconductor</title>
+      <link>/abstracts/paper1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/abstracts/paper1/</guid>
+      <description> Introduction to Bioconductor Author(s): John Smith Affiliation(s): University of Example Lorem ipsum </description>
+    </item>
+    
+    <item>
+      <title>Software demo</title>
+      <link>/abstracts/paper2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/abstracts/paper2/</guid>
+      <description> Software demo Author(s): John Citizen Affiliation(s): University of Example Twitter: @NilsEling Lorem ipsum </description>
+    </item>
+    
+    <item>
+      <title>ST</title>
+      <link>/abstracts/paper3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/abstracts/paper3/</guid>
+      <description> ST Author(s): XYZ Affiliation(s): University of Example Lorem ipsum </description>
+    </item>
+    
+  </channel>
+</rss>
