@@ -1,6 +1,6 @@
 ---
-title: "Cola: A General Framework For Consensus Partitioning**"
-tags: ["Package demo"]
+title: "Introduction to Bioconductor"
+tags: ["Keynote"]
 type: "blog"
 draft: false
 ---

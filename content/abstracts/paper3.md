@@ -1,5 +1,5 @@
 ---
-title: "nnSVG: Scalable Identification Of Spatially Variable Genes Using Nearest-Neighbor Gaussian Processes"
+title: "ST"
 tags: ["Short talk"]
 type: "blog"
 draft: false

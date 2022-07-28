@@ -2,7 +2,7 @@ library(stringr)
 
 print('Creating yaml files in data/abstracts/')
 
-file_path <- "https://docs.google.com/spreadsheets/d/e/2PACX-1vRWk1K6nVoGeeYWmosAkTBuS4shpV7eZ7T7cQElCiV3ZOa9q5HdH1IR2h4Y7x1G-_wRpgoQ7TAeANp9/pub?gid=0&single=true&output=tsv"
+file_path <- "https://docs.google.com/spreadsheets/d/1-jN59YPubMhsE0lKNl4d4HdIuO_sViKmjbDLIsyWuSI/pub?gid=0&single=true&output=tsv"
 schedule <- read.csv(file = file_path, 
                      sep = "\t", stringsAsFactors = F, 
                      na.strings = "")

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Bioconductor</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Bioconductor</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Keynote</title>
+      <link>/tags/keynote/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/keynote/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Package demo</title>
+      <link>/tags/package-demo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/package-demo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Short talk</title>
+      <link>/tags/short-talk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/short-talk/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

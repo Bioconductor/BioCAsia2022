@@ -27,14 +27,14 @@ library(stringr)
 if ("googlesheets4" %in% installed.packages()[,"Package"]) {
     ## This option requires authentication with a google account
     ## No need to download the google spreadsheet
-    ss <- 'https://docs.google.com/spreadsheets/d/1tGtGffcbCRxQFjE3ej42IcWlN4FJCsuQeZvETt9g0oA/edit#gid=0'
+    ss <- 'https://docs.google.com/spreadsheets/d/1-jN59YPubMhsE0lKNl4d4HdIuO_sViKmjbDLIsyWuSI/edit#gid=0'
     google_sheet <- googlesheets4::read_sheet(ss, sheet = 1)
     scheduleBlank <- as.data.frame(google_sheet)
     scheduleBlank[is.na(scheduleBlank)] <- "" 
     
 } else {
     
-    file_path <- "https://docs.google.com/spreadsheets/d/e/2PACX-1vRWk1K6nVoGeeYWmosAkTBuS4shpV7eZ7T7cQElCiV3ZOa9q5HdH1IR2h4Y7x1G-_wRpgoQ7TAeANp9/pub?gid=0&single=true&output=tsv"
+    file_path <- "https://docs.google.com/spreadsheets/d/1-jN59YPubMhsE0lKNl4d4HdIuO_sViKmjbDLIsyWuSI/edit#gid=0&single=true&output=tsv"
     schedule <- read.csv(file = file_path, 
                      sep = "\t", stringsAsFactors = F, 
                      na.strings = "")

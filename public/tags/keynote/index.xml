@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Keynote on Bioconductor</title>
+    <link>/tags/keynote/</link>
+    <description>Recent content in Keynote on Bioconductor</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/tags/keynote/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction to Bioconductor</title>
+      <link>/abstracts/paper1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/abstracts/paper1/</guid>
+      <description> Introduction to Bioconductor Author(s): John Smith Affiliation(s): University of Example Lorem ipsum </description>
+    </item>
+    
+  </channel>
+</rss>
