@@ -1,6 +1,6 @@
 # Bioconductor conference template web site
 
-This repository contains material for the Bioconductor annual conference. View example at https://bioc2022.bioconductor.org/ and the corresponding [GitHub repo](https://github.com/Bioconductor/BioC2022)
+This repository contains material for the Bioconductor annual conference. View example at https://bioc2022.bioconductor.org/ and the corresponding [GitHub repo](https://github.com/Bioconductor/BioCAsia2022)
 
 1. Make sure [Hugo is installed](https://gohugo.io/getting-started/installing/). Check hugo version
 
@@ -11,8 +11,8 @@ hugo version
 2. Clone the repository and switch to it
 
 ```shell
-git clone git@github.com:Bioconductor/BioC2022.git
-cd BioC2022/
+git clone git@github.com:Bioconductor/BioCAsia2022.git
+cd BioCAsia2022/
 ```
 
 3. Run hugo
