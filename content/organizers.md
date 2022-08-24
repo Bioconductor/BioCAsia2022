@@ -3,9 +3,11 @@ title = "Organizers"
 description = "Organizers"
 +++
 
+<!-- 
 ## Co-chairs
 
 {{< cochairs >}}
+-->
 
 ## Organizer Comittee
 
