@@ -50,9 +50,10 @@ paginate = 50
     weight = 5
 
 [[menu.main]]
-    identifier = "sponsors"
-    name = "Sponsors"
-    url  = "/sponsors/"
+    identifier = "organizers"
+    parent = "about"
+    name = "Organizers"
+    url  = "/organizers/"
     weight = 6
 
 [[menu.main]]
@@ -60,13 +61,6 @@ paginate = 50
     name = "About"
     url  = "#"
     weight = 7
-
-[[menu.main]]
-    identifier = "organizers"
-    parent = "about"
-    name = "Organizers"
-    url  = "/organizers/"
-    weight = 6
 
 [[menu.main]]
     identifier = "code"
