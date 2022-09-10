@@ -5,7 +5,7 @@ description = "Submission"
 
 ## Submission
 
-[Submit](https://forms.gle/mG3jukSCWcARPimX6) details about your talk or demonstration.
+[Submit](https://pheedloop.com/ABACBS2022/proposal/start/?call=CALGZDPQQ6NQ68Y) details about your talk or demonstration.
 
 #### Registration Cost
 
