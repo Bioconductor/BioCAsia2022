@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>News on Bioconductor</title>
-    <link>https://bioconductor.github.io/BioCAsia2022/news/</link>
-    <description>Recent content in News on Bioconductor</description>
+    <title>News on BioC Asia 2022</title>
+    <link>/news/</link>
+    <description>Recent content in News on BioC Asia 2022</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://bioconductor.github.io/BioCAsia2022/news/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 28 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="/news/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Call for abstracts is open</title>
-      <link>https://bioconductor.github.io/BioCAsia2022/news/2022-07-28-call_for_abstracts_opens/</link>
+      <link>/news/2022-07-28-call_for_abstracts_opens/</link>
       <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://bioconductor.github.io/BioCAsia2022/news/2022-07-28-call_for_abstracts_opens/</guid>
+      <guid>/news/2022-07-28-call_for_abstracts_opens/</guid>
       <description>You can register your abstract at: www.example.com</description>
     </item>
     

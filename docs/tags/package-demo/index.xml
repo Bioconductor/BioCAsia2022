@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Package demo on Bioconductor</title>
-    <link>https://bioconductor.github.io/BioCAsia2022/tags/package-demo/</link>
-    <description>Recent content in Package demo on Bioconductor</description>
+    <title>Package demo on BioC Asia 2022</title>
+    <link>/tags/package-demo/</link>
+    <description>Recent content in Package demo on BioC Asia 2022</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://bioconductor.github.io/BioCAsia2022/tags/package-demo/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/tags/package-demo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Software demo</title>
-      <link>https://bioconductor.github.io/BioCAsia2022/abstracts/paper2/</link>
+      <link>/abstracts/paper2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://bioconductor.github.io/BioCAsia2022/abstracts/paper2/</guid>
+      <guid>/abstracts/paper2/</guid>
       <description>Software demo Author(s): John Citizen Affiliation(s): University of Example Twitter: @NilsEling Lorem ipsum</description>
     </item>
     

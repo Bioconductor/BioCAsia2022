@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Keynote on Bioconductor</title>
-    <link>https://bioconductor.github.io/BioCAsia2022/tags/keynote/</link>
-    <description>Recent content in Keynote on Bioconductor</description>
+    <title>Keynote on BioC Asia 2022</title>
+    <link>/tags/keynote/</link>
+    <description>Recent content in Keynote on BioC Asia 2022</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://bioconductor.github.io/BioCAsia2022/tags/keynote/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/tags/keynote/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introduction to Bioconductor</title>
-      <link>https://bioconductor.github.io/BioCAsia2022/abstracts/paper1/</link>
+      <link>/abstracts/paper1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://bioconductor.github.io/BioCAsia2022/abstracts/paper1/</guid>
+      <guid>/abstracts/paper1/</guid>
       <description>Introduction to Bioconductor Author(s): John Smith Affiliation(s): University of Example Lorem ipsum</description>
     </item>
     
