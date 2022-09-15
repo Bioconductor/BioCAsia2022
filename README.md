@@ -1,4 +1,4 @@
-# Bioconductor conference template web site
+# To build this website
 
 This repository contains material for the Bioconductor annual conference. View example at https://bioc2022.bioconductor.org/ and the corresponding [GitHub repo](https://github.com/Bioconductor/BioCAsia2022)
 
@@ -23,9 +23,11 @@ rm -rf docs; hugo --verbose; hugo server --disableFastRender --verbose
 
 and view the results at http://localhost:1313/
 
-4. Host your site on [Netlify](https://www.netlify.com/), as described [here](https://bookdown.org/yihui/blogdown/netlify.html). Use build command `hugo`, publish directory `docs`, and set advanced variable `HUGO_VERSION` to your `hugo version` number, e.g., 0.76.5
-
 Created using modified [hugo-universal-theme](https://github.com/devcows/hugo-universal-theme). See the [demo web site](https://themes.gohugo.io/theme/hugo-universal-theme/), the original [github repository](https://github.com/devcows/hugo-universal-theme) and the [exampleSite files](https://github.com/devcows/hugo-universal-theme/tree/master/exampleSite). Template by [Bootstrapious](https://bootstrapious.com/p/universal-business-e-commerce-template). Ported to Hugo by [DevCows](https://github.com/devcows/hugo-universal-theme). The theme is added as selected files, not as a submodule, for easier modification.
+
+# If you send us a pull request to contribute
+
+Do not commit the deletion of `docs/CNAME` and `docs/.nojekyll`.
 
 # ToDo/Help wanted
 
