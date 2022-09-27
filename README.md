@@ -29,6 +29,8 @@ Created using modified [hugo-universal-theme](https://github.com/devcows/hugo-un
 
 Do not commit the deletion of `docs/CNAME` and `docs/.nojekyll`.
 
+Or commit your update after running `cp PATH_OF_THIS_REPO_FOLDER/CNAME PATH_OF_THIS_REPO_FOLDER/.nojekyll docs/`.
+
 # ToDo/Help wanted
 
 - Make schedule as a partial, populated from `config.toml`. Example - [hugo-conference](https://themes.gohugo.io/hugo-conference/) theme.
