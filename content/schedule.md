@@ -3,11 +3,18 @@ title = "Schedule"
 description = "Schedule"
 +++
 
-+ [All short talks](../tags/short-talk/)
+Click or change **the place name in the left of "Powered by team up"** (in the lower-right corner) to set your time zone.
+
+You can also switch the calendar view from weekly view to **agenda view**.
+You can switch between them with **the button on the left of the hamburger menu** at the top right of the calendar.
+
+{{< iframe >}}
+
+<!-- + [All short talks](../tags/short-talk/)
 + [All package demos](../tags/package-demo/)
 
 {{< schedule date="Thursday, December 1, 2022" day="day1">}}
-{{< schedule date="Friday, December 2, 2022" day="day2">}}
+{{< schedule date="Friday, December 2, 2022" day="day2">}} -->
 
 <!--The conference will be held on the [Airmeet](https://www.airmeet.com/) virtual platform. Please, refer to the [Guide for participants](https://youtu.be/FvvZzcwlyv4) video and the [step-by-step guide how to use Airmeet](https://www.airmeet.com/hub/product-blog/step-by-step-guide-use-airmeet-for-attendees/). Please note there are no options to blur or hide your background in Airmeet; use third-party software if the blur is necessary.
 
